@@ -1,0 +1,8 @@
+print ("Jawaban Anda benar")
+print ("True")
+print ("Jawaban Anda salah, seharusnya adalah: int")
+print ("False")
+print ("Jawaban Anda salah, seharusnya adalah: str")
+print ("False")
+print ("Jawaban Anda benar")
+print ("True")
